@@ -1,15 +1,18 @@
  
 import React from 'react'
 import '../styles/Footer.css'
+import mailImg from '../assets/images/—Pngtree—email.png';
+import githubImg from '../assets/images/icons8-github.png';
+import linkdInImg from '../assets/images/—Pngtree—linkedin.png';
 
 const Footer = () => {
   return (
     <footer className="footer">
       <p>© {new Date().getFullYear()} Samuel Boakye. All rights reserved.</p>
       <div className="footer-links">
-        <a href="mailto:youremail@example.com">Email</a>
-        <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-        <a href="https://linkedin.com/in/yourname" target="_blank">LinkedIn</a>
+        <a href="mailto:sammyboakye295@gmail.com"><img src={mailImg} alt="" /></a>
+        <a href="https://github.com/SammyBGH" target="_blank"><img src={githubImg} alt="" /></a>
+        <a href="https://www.linkedin.com/in/samuel-boakye-494084263" target="_blank"><img src={linkdInImg} alt="" /></a>
       </div>
     </footer>
   )

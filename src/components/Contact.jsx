@@ -77,9 +77,9 @@ const Contact = () => {
       )}
 
       <div className="contact-info">
-        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-        <p>GitHub: <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">github.com/yourusername</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank" rel="noreferrer">linkedin.com/in/yourname</a></p>
+        <p>Email: <a href="mailto:sammyboakye295@gmail.com">sammyboakye295@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/SammyBGH" target="_blank" rel="noreferrer">github.com/SammyBGH</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/samuel-boakye-494084263" target="_blank" rel="noreferrer">linkedin.com/in/samuel-boakye</a></p>
       </div>
     </section>
   );
