@@ -1,7 +1,7 @@
   
 import React from 'react'
 import '../styles/Hero.css'
-import heroImg from '../assets/images/profile.jpg' /*changed */
+import profileImg from '../assets/images/profile.jpg';
 
 const Hero = () => {
   return (
@@ -11,7 +11,7 @@ const Hero = () => {
         <p>I build clean, responsive, and interactive web apps.</p>
         <a href="#projects" className="btn">View Projects</a>
       </div>
-      <img src={heroImg} alt="Profile" className="hero-img" />
+      <img src={profileImg} alt="Profile" className="hero-img" />
     </section>
   )
 }
