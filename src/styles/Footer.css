@@ -33,9 +33,17 @@
   color: white;
 }
 
+.footer-links .socials-img {
+  height: 70px;
+  width: 70px;
+}
+
+
 @media (max-width: 768px) {
   .footer-links {
     flex-direction: column;
     gap: 0.7rem;
   }
 }
+
+
