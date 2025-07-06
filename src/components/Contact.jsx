@@ -16,7 +16,7 @@ const Contact = () => {
     setIsSending(true);
 
     try {
-      await axios.post('https://your-backend.onrender.com/api/send-message', form); // Replace with your Render backend URL
+      await axios.post('https://bkye-backend.onrender.com/api/send-message', form);
       setStatus({ message: 'Message sent via Telegram!', type: 'success', show: true });
       setForm({ name: '', email: '', message: '' });
     } catch (error) {
