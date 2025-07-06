@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Certificates.css'
-import cert1 from '../assets/images/cert1.jpg'
+import cert1 from '../assets/images/cert1.jpg' /* okay*/
 import cert2 from '../assets/images/cert2.jpeg'
 import cert3 from '../assets/images/cert3.jpg'
 
