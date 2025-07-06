@@ -1,0 +1,15 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #121212;
+  --accent-color: #007bff;
+  --toggle-bg: #e0e0e0;
+  --border-color: #ccc; /* Light mode border */
+}
+
+body.dark {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --accent-color: #66b2ff;
+  --toggle-bg: #2a2a2a;
+  --border-color: #ffffff; /* Dark mode border */
+}
