@@ -11,7 +11,7 @@ const projects = [
     title: 'E-Commerce Website',
     description: 'A modern e-commerce site built with React and Firebase.',
     image: project1,
-    link: 'https://example.com/project1',
+    link: 'https://stitchit-frontend.onrender.com/',
   },
  {
   title: 'Movie App',
@@ -24,7 +24,7 @@ const projects = [
     title: 'Portfolio Site',
     description: 'My personal portfolio built with Vite and plain CSS.',
     image: project3,
-    link: 'https://example.com/project3',
+    link: '#',
   },
 ]
 
