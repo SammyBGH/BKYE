@@ -17,7 +17,7 @@ const projects = [
   title: 'Movie App',
   description: 'A modern web app for browsing, searching, and discovering movies using real-time API data.',
   image: project2,
-  link: 'https://example.com/project2',
+  link: 'https://github.com/SammyBGH/movie-app',
   },
 
   {
