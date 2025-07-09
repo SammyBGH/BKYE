@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bkye.vercel.app/sitemap.xml
