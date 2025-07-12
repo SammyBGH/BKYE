@@ -12,13 +12,13 @@ Frontend for my personal portfolio website, built with **React**, **Vite**, and 
 
 ## 🗂️ Table of Contents
 
-- [Getting Started](#-getting-started)
-- [Built With](#-built-with)
-- [Features](#-features)
-- [Deployment](#-deployment)
-- [Backlink & SEO](#-backlink--seo)
-- [Contact](#-contact)
-- [License](#-license)
+- [Getting Started]
+- [Built With]
+- [Features]
+- [Deployment]
+- [Backlink & SEO]
+- [Contact]
+- [License]
 
 ---
 
